@@ -18,6 +18,6 @@ the Russian Federation is **160th most peaceful of 163 countries**:
 
 ## Ongoing conflicts
 
-* `2014-…` – Russian-Ukrainian war
+* `2014-…` – Russia’s invasion of Ukraine
 * `2015-…` – Russia’s invasion of Syria
 * `2018-…` – Central African Republic Civil War
